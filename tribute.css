@@ -3,6 +3,7 @@ html,body{
     text-align:center;
     min-width:260px;
     color: black;
+    background-image: "haloringworld.jpg";
   }
   #main{
     margin:30px auto;
